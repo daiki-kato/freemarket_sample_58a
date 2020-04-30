@@ -7,6 +7,7 @@ ID: admin
 Pass: 5a8a
 
 テスト用ユーザーアカウント：
+
 ・購入用アカウント
   email: buyer@buyer.com
   password: buyer123
